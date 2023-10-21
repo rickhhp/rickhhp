@@ -56,7 +56,8 @@
 <h1 align="center">Seminars</h1>
 <p align="center">
 Lesson, Trends, and Opportunities in the IT Industry – New Era University, April 1 – 28, 2022 </p> 
-<ul>
+
+<ul align="center">
 <li>Keeping Your Designs Fresh, but Still on Brand </li>
 <li>Introduction to 3D Modeling</li>
 <li>Art Thieves: How to Protect Your Art</li> 
