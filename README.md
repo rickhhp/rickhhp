@@ -56,7 +56,7 @@
 <h1 align="center">Seminars</h1>
 <p align="center">
 Lesson, Trends, and Opportunities in the IT Industry – New Era University, April 1 – 28, 2022 </p> 
-
+<p align="center">
 <ul>
 <li>Keeping Your Designs Fresh, but Still on Brand </li>
 <li>Introduction to 3D Modeling</li>
@@ -69,7 +69,7 @@ Lesson, Trends, and Opportunities in the IT Industry – New Era University, Apr
 <li>Software Management </li>
 <li>Microsoft Power Apps </li>
 <li>RPA: Robotic Process Automation </li>
-<li>Careers in IT</li> </ul>
+<li>Careers in IT</li> </ul></p>
 <p align="center">
 Data Driven Decision Making and Data Science - New Era University, March 26, 2022 </p>
   <p align="center">
