@@ -56,18 +56,19 @@
 <h1 align="center">Seminars</h1>
 <p align="center">
 Lesson, Trends, and Opportunities in the IT Industry – New Era University, April 1 – 28, 2022 
-• Keeping Your Designs Fresh, but Still on Brand 
-• Introduction to 3D Modeling
-• Art Thieves: How to Protect Your Art 
-• Ethical Hacking-Brute Force Attack 
-• Self-Learning Graphic Design 
-• Working Abroad 
-• IT Industry Landscape and Trends 
-• Exploring The New Age of Business Intelligence Innovation 
-• Software Management 
-• Microsoft Power Apps 
-• RPA: Robotic Process Automation 
-• Careers in IT 
+<ul>
+<li>Keeping Your Designs Fresh, but Still on Brand </li>
+<li>Introduction to 3D Modeling</li>
+<li>Art Thieves: How to Protect Your Art</li> 
+<li>Ethical Hacking-Brute Force Attack</li> 
+<li>Self-Learning Graphic Design</li> 
+<li>Working Abroad </li>
+<li>IT Industry Landscape and Trends </li>
+<li>Exploring The New Age of Business Intelligence Innovation </li>
+<li>Software Management </li>
+<li>Microsoft Power Apps </li>
+<li>RPA: Robotic Process Automation </li>
+<li>Careers in IT</li> </ul>
 Data Driven Decision Making and Data Science - New Era University, March 26, 2022 
 Defender’s Guide to a Successful Cybersecurity Career - New Era University, March 25, 2022 
 Introduction to Web Development - New Era University, March 25, 2022 
