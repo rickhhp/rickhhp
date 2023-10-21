@@ -55,7 +55,7 @@
                    
 <h1 align="center">Seminars</h1>
 <p align="center">
-Lesson, Trends, and Opportunities in the IT Industry – New Era University, April 1 – 28, 2022 
+Lesson, Trends, and Opportunities in the IT Industry – New Era University, April 1 – 28, 2022 </p> 
 <ul>
 <li>Keeping Your Designs Fresh, but Still on Brand </li>
 <li>Introduction to 3D Modeling</li>
@@ -69,9 +69,13 @@ Lesson, Trends, and Opportunities in the IT Industry – New Era University, Apr
 <li>Microsoft Power Apps </li>
 <li>RPA: Robotic Process Automation </li>
 <li>Careers in IT</li> </ul>
-Data Driven Decision Making and Data Science - New Era University, March 26, 2022 
-Defender’s Guide to a Successful Cybersecurity Career - New Era University, March 25, 2022 
-Introduction to Web Development - New Era University, March 25, 2022 
-Database Management System: What it is and why it matters - New Era University, March 25, 2022 
+<p align="center">
+Data Driven Decision Making and Data Science - New Era University, March 26, 2022 </p>
+  <p align="center">
+Defender’s Guide to a Successful Cybersecurity Career - New Era University, March 25, 2022 </p>
+    <p align="center">
+Introduction to Web Development - New Era University, March 25, 2022 </p>
+      <p align="center">
+Database Management System: What it is and why it matters - New Era University, March 25, 2022 </p>
 </p>
 
