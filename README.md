@@ -29,6 +29,10 @@
 2019 - Present <br><br></p>
 
 <h1 align="center">Certifications</h1>
+
+<p align ="center"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E9274DC841470F38577D5A839E7C6660ECCF0476E02258D979AFE99AB528E1B8"><br>AI Ethics</a> <br>
+                   Oracle <br>
+                   November 05, 2023  </center></p>
 <p align ="center"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/062bee16af9dc7e63054d6c0a85d39109931e09e"><br>AI Ethics</a> <br>
                    Datacamp <br>
                    September 03, 2023  </center></p>
