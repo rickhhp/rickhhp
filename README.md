@@ -30,6 +30,10 @@
 
 <h1 align="center">Certifications & Skills</h1>
 
+<p align ="center"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/24d6e1729a21b8d057a8737c89e1a4e5e518a79b"><br>Understanding Machine Learning</a> <br>
+                   Datacamp <br>
+                   November 07, 2023  </center></p>
+
 <p align ="center"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/17b49a7cd8887f02d6f81e461a84ad18d32a62a3"><br>Implementing AI Solutions in Business</a> <br>
                    Datacamp <br>
                    November 07, 2023  </center></p>
