@@ -28,7 +28,7 @@
 <p align="center">Bachelor of Science in Information Technology | New Era University <br>
 2019 - Present <br><br></p>
 
-<h1 align="center">Certifications</h1>
+<h1 align="center">Certifications & Skills</h1>
 
 <p align ="center"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E9274DC841470F38577D5A839E7C6660ECCF0476E02258D979AFE99AB528E1B8"><br>Oracle Cloud Infrastructure 2023 AI Foundations Associate</a> <br>
                    Oracle <br>
