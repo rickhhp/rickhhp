@@ -30,6 +30,10 @@
 
 <h1 align="center">Certifications & Skills</h1>
 
+<p align ="center"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/17b49a7cd8887f02d6f81e461a84ad18d32a62a3"><br>Implementing AI Solutions in Business</a> <br>
+                   Datacamp <br>
+                   November 07, 2023  </center></p>
+
 <p align ="center"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E9274DC841470F38577D5A839E7C6660ECCF0476E02258D979AFE99AB528E1B8"><br>Oracle Cloud Infrastructure 2023 AI Foundations Associate</a> <br>
                    Oracle <br>
                    November 05, 2023  </center></p>
